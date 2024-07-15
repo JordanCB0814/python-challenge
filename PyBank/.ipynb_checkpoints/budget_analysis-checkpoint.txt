@@ -1,0 +1,7 @@
+Financial Analysis
+-------------------
+Total Months:85
+Total Networth:$92563555
+Average Change:$-836333.41
+Greatest Increase in Profits:Mar-13 $52857
+Greatest Decrease on Profits:Dec-10 $-2283116
